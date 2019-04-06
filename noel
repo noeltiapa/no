@@ -1,2 +1,2 @@
-prueba
-orgklakerlhle
+#!/bin/bash
+echo "Hola Mundo"
